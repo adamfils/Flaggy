@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flaggy</string>
+    <string name="country_flag">Country Flag</string>
+    <string name="unable_to_get_countries">Unable To Get Countries</string>
+</resources>
